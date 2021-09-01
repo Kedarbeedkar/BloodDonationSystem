@@ -7,7 +7,7 @@ The main objective of this project is build a website which will help people and
 ##Project Mentor##
 Bakul Joshi
 ##Project Members##
-Jyotika Sable PRN : 210543081037
-Jayashri  Kathore PRN : 210543081041
-Kedar Beedkar PRN : 210543081044
-Shaikh Nahed PRN : 210543081096
+*Jyotika Sable PRN : 210543081037
+*Jayashri  Kathore PRN : 210543081041
+*Kedar Beedkar PRN : 210543081044
+*Shaikh Nahed PRN : 210543081096
