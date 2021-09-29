@@ -12,6 +12,3 @@
 1. Shaikh Nahed PRN : 210543081096
 
 
-# Languages and Tools
-
-![java](https://in.images.search.yahoo.com/search/images;_ylt=Awrxhde.R1Rh0kwAWlG9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGFjdG4DY2xrBGNzcmNwdmlkA29nOUk0akV3TGpMSS5TcmxZUmF1aHdkVU1UQXpMZ0FBQUFCRHZQdzgEZnIDbWNhZmVlBGZyMgNzYS1ncARncHJpZAN2eHBpMGFGQVJ2Q2V5dzlnQkthVDJBBG5fc3VnZwMxMARvcmlnaW4DaW4uaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMEcXN0cmwDMTEEcXVlcnkDamF2YSUyMGxvZ28EdF9zdG1wAzE2MzI5MTMzNTE-?p=java+logo&fr=mcafee&fr2=sb-top-in.images.search&ei=UTF-8&x=wrt&type=E211IN826G91512#id=2&iurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FJava_(programming_language)%2FJava_(programming_language)-Logo.wine.png&action=click)
